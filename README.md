@@ -4,7 +4,7 @@
 To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM controller , and simulate it in Proteus
 ## Components required: 
 STM32 CUBE IDE, Proteus 8 simulator .
-## NAME : Jivan KArthec B S
+## NAME : Jivan Karthec B S
 ## REG NO : 212222100017
 ## Theory:
 
